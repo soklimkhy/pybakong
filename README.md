@@ -7,8 +7,10 @@ Python SDK for Cambodia Bakong Open API.
 
 ## Installation
 
-```bash
 pip install pybakong
+
+```bash
+
 from pybakong import BakongClient, BakongAPIError
 
 # Initialize the client
