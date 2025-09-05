@@ -2,7 +2,7 @@
 
 Python SDK for Cambodia Bakong Open API.  
 
-"This Repo is built for learning purposes only." 
+/ This Repo is built for learning purposes only /
 ---
 
 ## Installation
