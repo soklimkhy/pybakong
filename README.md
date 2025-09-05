@@ -1,8 +1,8 @@
 # pybakong
 
 Python SDK for Cambodia Bakong Open API.  
-This library provides a simple, class-based interface to interact with the Bakong API, including token management, QR code generation, transaction verification, and account checks.
 
+"This Repo is built for learning purposes only." 
 ---
 
 ## Installation
